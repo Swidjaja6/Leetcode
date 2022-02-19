@@ -1,4 +1,4 @@
-# Kattis Coding Repository
+# Leetcode Coding Repository
 Repository of my solutions to coding problems in Leetcode. Done in Java and C++
 
 ## Solutions
